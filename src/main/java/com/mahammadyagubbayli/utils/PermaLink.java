@@ -1,5 +1,5 @@
 package com.mahammadyagubbayli.utils;
 
 public class PermaLink {
-    // GITHUB :
+    // GITHUB : https://github.com/myagubbayli/PatikaSpringFramework
 }
