@@ -9,14 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e3d4f0a-a2d4-49b1-8047-41f5fd365ac5" name="Changes" comment="PermaLink">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1e3d4f0a-a2d4-49b1-8047-41f5fd365ac5" name="Changes" comment="leftovers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +144,7 @@
       <updated>1671558006008</updated>
       <workItem from="1671558006782" duration="1154000" />
       <workItem from="1671559568553" duration="6479000" />
-      <workItem from="1671571379832" duration="1086000" />
+      <workItem from="1671571379832" duration="1305000" />
     </task>
     <task id="LOCAL-00001" summary="PermaLink">
       <created>1671572081790</created>
@@ -160,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671572081790</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".gitignore">
+      <created>1671572505949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671572505949</updated>
+    </task>
+    <task id="LOCAL-00003" summary="leftovers">
+      <created>1671572681767</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671572681767</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +175,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PermaLink" />
-    <option name="LAST_COMMIT_MESSAGE" value="PermaLink" />
+    <MESSAGE value=".gitignore" />
+    <MESSAGE value="leftovers" />
+    <option name="LAST_COMMIT_MESSAGE" value="leftovers" />
   </component>
 </project>
