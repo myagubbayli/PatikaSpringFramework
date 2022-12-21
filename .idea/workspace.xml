@@ -9,8 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e3d4f0a-a2d4-49b1-8047-41f5fd365ac5" name="Changes" comment="leftovers">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mahammadyagubbayli/tutorials/JavaTutorials.java" afterDir="false" />
+    <list default="true" id="1e3d4f0a-a2d4-49b1-8047-41f5fd365ac5" name="Changes" comment="Hatırlatma">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mahammadyagubbayli/cdi/_01_Named.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/_01_Named.xhtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/mahammad/Desktop/PatikaSpringFramework",
+    "last_opened_file_path": "C:/Users/mahammad/Desktop/PatikaSpringFramework/src/main/webapp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,11 +60,16 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mahammad\Desktop\PatikaSpringFramework\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JBoss/WildFly Server.JBoss/WildFly 26.1.2.Final">
     <configuration name="JBoss/WildFly 26.1.2.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 26.1.2.Final" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/PatikaSpringFramework-1.0-SNAPSHOT" />
       <option name="COMMON_VM_ARGUMENTS" value="-Duser.language=en" />
@@ -136,6 +142,14 @@
         </option>
       </method>
     </configuration>
+    <configuration name="_01_Named.xhtml" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/PatikaSpringFramework-1.0-SNAPSHOT/_01_Named.xhtml">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug._01_Named.xhtml" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -147,7 +161,7 @@
       <updated>1671558006008</updated>
       <workItem from="1671558006782" duration="1154000" />
       <workItem from="1671559568553" duration="6479000" />
-      <workItem from="1671571379832" duration="4420000" />
+      <workItem from="1671571379832" duration="8410000" />
     </task>
     <task id="LOCAL-00001" summary="PermaLink">
       <created>1671572081790</created>
@@ -177,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671572708863</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hatırlatma">
+      <created>1671576543122</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671576543122</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +208,7 @@
     <MESSAGE value="PermaLink" />
     <MESSAGE value=".gitignore" />
     <MESSAGE value="leftovers" />
-    <option name="LAST_COMMIT_MESSAGE" value="leftovers" />
+    <MESSAGE value="Hatırlatma" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hatırlatma" />
   </component>
 </project>
