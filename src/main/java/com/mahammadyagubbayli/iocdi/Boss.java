@@ -7,3 +7,4 @@ public class Boss implements BossInterface {
         return "version " + data;
     }
 }
+
