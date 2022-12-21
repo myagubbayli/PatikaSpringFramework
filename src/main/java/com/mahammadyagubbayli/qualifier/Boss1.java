@@ -1,14 +1,14 @@
-package com.mahammadyagubbayli.alternative;
+package com.mahammadyagubbayli.qualifier;
 
-import javax.enterprise.inject.Alternative;
+import javax.enterprise.inject.Default;
 
-@Alternative
+@Default
 public class Boss1 implements BossInterface {
 
     // @Alternative: aynı anda sadece 1 tane proje çalışıyor diğerleri kapalı
     @Override
     public String version(String data) {
-        return "boss 1 " + data;
+        return "default data:  " + data;
     }
 }
 
