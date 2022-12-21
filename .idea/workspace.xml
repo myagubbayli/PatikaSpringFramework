@@ -9,10 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e3d4f0a-a2d4-49b1-8047-41f5fd365ac5" name="Changes" comment="Hatırlatma">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mahammadyagubbayli/cdi/_01_Named.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/_01_Named.xhtml" afterDir="false" />
+    <list default="true" id="1e3d4f0a-a2d4-49b1-8047-41f5fd365ac5" name="Changes" comment="@Alternative">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mahammadyagubbayli/qualifier/Boss1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mahammadyagubbayli/qualifier/Boss2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mahammadyagubbayli/qualifier/BossInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mahammadyagubbayli/qualifier/QualifierMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mahammadyagubbayli/qualifier/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/qualifier/BossWorker.xhtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mahammadyagubbayli/alternative/Boss1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mahammadyagubbayli/alternative/Boss1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,7 @@
       <list>
         <option value="Jsp File" />
         <option value="jsf" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,13 +66,21 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "advanced.settings",
+    "settings.editor.selected.configurable": "inlay.hints",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mahammad\Desktop\PatikaSpringFramework\src\main\webapp" />
+      <recent name="C:\Users\mahammad\Desktop\PatikaSpringFramework\src\main\java\com\mahammadyagubbayli\qualifier" />
+      <recent name="C:\Users\mahammad\Desktop\PatikaSpringFramework\src\main\java\com\mahammadyagubbayli\alternative" />
+      <recent name="C:\Users\mahammad\Desktop\PatikaSpringFramework\src\main\webapp\iocdi" />
+      <recent name="C:\Users\mahammad\Desktop\PatikaSpringFramework\src\main\java\com\mahammadyagubbayli\iocdi" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mahammadyagubbayli.qualifier" />
+      <recent name="com.mahammadyagubbayli.alternative" />
     </key>
   </component>
   <component name="RunManager" selected="JBoss/WildFly Server.JBoss/WildFly 26.1.2.Final">
@@ -142,12 +156,28 @@
         </option>
       </method>
     </configuration>
-    <configuration name="_01_Named.xhtml" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/PatikaSpringFramework-1.0-SNAPSHOT/_01_Named.xhtml">
+    <configuration name="BossWorker.xhtml (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/PatikaSpringFramework-1.0-SNAPSHOT/iocdi/BossWorker.xhtml">
+      <method v="2" />
+    </configuration>
+    <configuration name="BossWorker.xhtml (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/PatikaSpringFramework-1.0-SNAPSHOT/alternative/BossWorker.xhtml">
+      <method v="2" />
+    </configuration>
+    <configuration name="BossWorker.xhtml (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/PatikaSpringFramework-1.0-SNAPSHOT/qualifier/BossWorker.xhtml">
+      <method v="2" />
+    </configuration>
+    <configuration name="BossWorker.xhtml" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/PatikaSpringFramework-1.0-SNAPSHOT/woioc_wodi/BossWorker.xhtml">
+      <method v="2" />
+    </configuration>
+    <configuration name="_04_New.xhtml" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/PatikaSpringFramework-1.0-SNAPSHOT/_04_New.xhtml">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug._01_Named.xhtml" />
+        <item itemvalue="JavaScript Debug.BossWorker.xhtml (3)" />
+        <item itemvalue="JavaScript Debug.BossWorker.xhtml (2)" />
+        <item itemvalue="JavaScript Debug.BossWorker.xhtml (1)" />
+        <item itemvalue="JavaScript Debug.BossWorker.xhtml" />
+        <item itemvalue="JavaScript Debug._04_New.xhtml" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +191,9 @@
       <updated>1671558006008</updated>
       <workItem from="1671558006782" duration="1154000" />
       <workItem from="1671559568553" duration="6479000" />
-      <workItem from="1671571379832" duration="8410000" />
+      <workItem from="1671571379832" duration="11621000" />
+      <workItem from="1671614403151" duration="6973000" />
+      <workItem from="1671645610618" duration="7129000" />
     </task>
     <task id="LOCAL-00001" summary="PermaLink">
       <created>1671572081790</created>
@@ -198,7 +230,70 @@
       <option name="project" value="LOCAL" />
       <updated>1671576543122</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="@Named">
+      <created>1671583789680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671583789680</updated>
+    </task>
+    <task id="LOCAL-00007" summary="@Produces">
+      <created>1671612947610</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671612947610</updated>
+    </task>
+    <task id="LOCAL-00008" summary="@Named">
+      <created>1671612967164</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671612967165</updated>
+    </task>
+    <task id="LOCAL-00009" summary="@Inject(Consumer)">
+      <created>1671615096627</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671615096627</updated>
+    </task>
+    <task id="LOCAL-00010" summary="@New">
+      <created>1671619635356</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671619635356</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Scoped (Kapsam)">
+      <created>1671620876410</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671620876410</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Inversion Of Control(-)&#10;Dependency Injection(-)">
+      <created>1671646961506</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671646961506</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Inversion Of Control(+)&#10;Dependency Injection(+)">
+      <created>1671648280390</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671648280390</updated>
+    </task>
+    <task id="LOCAL-00014" summary="@Alternative">
+      <created>1671662930876</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671662930876</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +304,14 @@
     <MESSAGE value=".gitignore" />
     <MESSAGE value="leftovers" />
     <MESSAGE value="Hatırlatma" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hatırlatma" />
+    <MESSAGE value="@Produces" />
+    <MESSAGE value="@Named" />
+    <MESSAGE value="@Inject(Consumer)" />
+    <MESSAGE value="@New" />
+    <MESSAGE value="Scoped (Kapsam)" />
+    <MESSAGE value="Inversion Of Control(-)&#10;Dependency Injection(-)" />
+    <MESSAGE value="Inversion Of Control(+)&#10;Dependency Injection(+)" />
+    <MESSAGE value="@Alternative" />
+    <option name="LAST_COMMIT_MESSAGE" value="@Alternative" />
   </component>
 </project>
