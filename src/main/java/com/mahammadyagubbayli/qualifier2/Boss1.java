@@ -1,4 +1,4 @@
-package com.mahammadyagubbayli.qualifier;
+package com.mahammadyagubbayli.qualifier2;
 
 import javax.enterprise.inject.Default;
 

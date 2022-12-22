@@ -1,4 +1,4 @@
-package com.mahammadyagubbayli.qualifier;
+package com.mahammadyagubbayli.qualifier2;
 
 import javax.inject.Qualifier;
 import java.lang.annotation.Documented;

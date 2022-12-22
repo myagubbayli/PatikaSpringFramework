@@ -1,4 +1,4 @@
-package com.mahammadyagubbayli.qualifier;
+package com.mahammadyagubbayli.qualifier3;
 
 public interface BossInterface {
 
